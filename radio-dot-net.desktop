@@ -3,6 +3,6 @@ Name=radio.net
 Comment=More than 30,000 online radio stations. WebApp for Ubuntu Touch devices.
 Type=Application
 Icon=radio-dot-net.png
-Exec=webapp-container --store-session-cookies --webappUrlPatterns=http://*.radio.de/*,http://*.radio.at/*,http://*.radio.fr/*,http://*.radio.pt/*,http://www.radio.es/*,http://*.radio.net/*,http://www.radio.dk/*,http://www.radio.se/*,http://www.radio.it/*,http://www.radio.pl/* http://www.radio.net/
+Exec=webapp-container --store-session-cookies --webappUrlPatterns=http://*.radio.de/*,http://*.radio.at/*,http://*.radio.fr/*,http://*.radio.pt/*,http://*.radio.es/*,http://*.radio.net/*,http://*.radio.dk/*,http://*.radio.se/*,http://*.radio.it/*,http://*.radio.pl/* http://www.radio.net/
 Terminal=false
 X-Ubuntu-Touch=true
