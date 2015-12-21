@@ -1,0 +1,15 @@
+{
+    "name": "radio-dot-net.peter-bittner",
+    "description": "radio.net - More than 30,000 online radio stations.",
+    "architecture": "all",
+    "title": "radio.net",
+    "hooks": {
+        "radio-dot-net": {
+            "apparmor": "radio-dot-net.apparmor",
+            "desktop": "radio-dot-net.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Peter Bittner <django@bittner.it>",
+    "framework": "ubuntu-sdk-15.04"
+}

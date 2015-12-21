@@ -1,0 +1,56 @@
+radio.net
+---------
+
+radio.net is more than 30,000 online radio stations worldwide on your
+fingertips. WebApp for Ubuntu Touch devices. We have packed the online
+application into a web app for Ubuntu Touch devices.
+
+This web app is not affiliated with radio.net. The radio.net name,
+associated trade marks and the radio.net logo are trade marks of
+radio.de GmbH, Germany, or related entities.
+
+License
+-------
+
+radio.net Web App for Ubuntu Touch devices
+Copyright (C) 2015  Peter Bittner <django@bittner.it>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Support
+-------
+
+Source code:
+- https://github.com/bittner/radio-dot-net
+
+Issue tracker:
+- https://github.com/bittner/radio-dot-net/issues
+
+Development
+-----------
+
+Ubuntu developer information on Webapps
+- https://developer.ubuntu.com/en/web/
+
+Introductory guide on Ubuntu Webapps
+- https://developer.ubuntu.com/en/web/ubuntu-webapps-guide/
+
+Ubuntu Webapps tutorials
+- https://developer.ubuntu.com/en/web/tutorials/
+
+Build and publish the .click package manually, without Ubuntu SDK:
+- Install `click` on your developer machine (`sudo apt-get install click`)
+- Make sure you have bumped the version number in `manifest.json`
+- `cd` into the project repo folder and build the package (`click build .`)
+- Upload the created .click file at https://myapps.developer.ubuntu.com
