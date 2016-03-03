@@ -5,6 +5,8 @@ radio.net is more than 30,000 online radio stations worldwide at your
 fingertips. WebApp for Ubuntu Touch devices. We have packed the online
 application into a web app for Ubuntu Touch devices.
 
+Now even plays music when in the background, and when the screen is locked.
+
 This web app is not affiliated with radio.net. The radio.net name,
 associated trade marks and the radio.net logo are trade marks of
 radio.de GmbH, Germany, or related entities.
@@ -13,7 +15,7 @@ License
 -------
 
 radio.net Web App for Ubuntu Touch devices
-Copyright (C) 2015  Peter Bittner <django@bittner.it>
+Copyright (C) 2015-2016  Peter Bittner <django@bittner.it>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
